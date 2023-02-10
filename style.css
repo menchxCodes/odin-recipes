@@ -29,3 +29,7 @@ div p {
     text-align: center;
     margin:0 auto;
 }
+
+p {
+    padding: 5px;
+}
