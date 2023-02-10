@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+}
+
+.food-img {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    background-color: green;
+    color:white;
+    text-align: center;
+}
+
+
+.back {
+    margin:auto;
+}
+
+div p {
+    text-align: center;
+}
